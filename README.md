@@ -17,3 +17,4 @@ Verificar método "insertIteratively" no arquivo "binary_search_tree.py".
 ## 5 - Anulada
 
 ## 6 Faça um resumo de uma página + exemplos de código de árvore binária de busca, AVL e Rubro-negras.
+https://docs.google.com/document/d/1V2LnDodQZ3oWeqx-oGcu1-kFg8CVzwYsLorh9FRVLUo/edit?usp=sharing
